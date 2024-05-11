@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently looking for full-time positions
+- 🤔 Part-time or contractual opportunities are appreciated too 
+- 🌱 I’m currently learning WEB3 and practicing leetcode
+- 👯 I have 7 years of coding experience
+- 📫 Contact me at 13572966021st@gmail.com
+- 😄 My name is Tao
